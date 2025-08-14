@@ -1,4 +1,4 @@
-# Kubernetes MCP Server
+# kubinaut
 
 A Model Context Protocol (MCP) server for Kubernetes that enables Cursor to interact with Kubernetes clusters through natural language.
 
